@@ -1,0 +1,37 @@
+Sonatype
+Jfrog
+Snyk
+Black Duck
+Synopsys
+Mend
+WhiteSource
+Checkmarx
+Veracode
+Contrast Security
+HCL Tech
+UpGuard
+Intsights
+Tricentis
+Rational
+Fortif
+Coverity
+Intigriti
+Secure Code Warrior
+Cycode
+Qwiet
+Semgrep
+Chainguard
+Endor Labs
+GrammaTech
+Trivy
+Clair
+Anchore
+Cycode
+CodeQL
+GitHub
+GitLab
+Bitbucket
+Gitea
+Sourcetree
+Codebase
+Azure Devops

@@ -1,0 +1,17 @@
+{
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0",
+    "Accept": "*/*",
+    "Accept-Language": "en-GB,en;q=0.5",
+    "Content-Type": "application/json",
+    "Referer": "https://www.glassdoor.com/",
+    "gd-csrf-token": "T5dt1OqlAirKHBYdYvDreg:YD_lVZG5JY4KUbDeCK-m3pIBBy3DSSo4eO3SsskO6rg7YFlK3SZwIYdyhyL8frYjVK3AoD9H80gAsInIvtDKiA:2u9RrRlUktd6oUOO8APChhV0iImpMT0OJ9mHkNbcF9k",
+    "x-gd-dos2-experiments-json": "{content_indeed:{treatment:apply_t1,experiment:PROD_test,params:{apply:true}},content_reviews_sort:{treatment:newRankScore2,experiment:CXP-1964_PROD_test_08162021,params:{reviewLengthMultiplier:1,reviewLengthLimit:300,reviewLengthConstant:100,recencyFunctionMultiplier:-25,recencyFunctionExponentiator:0.5,recencyFunctionLimit:1000,recencyFunctionConstant:-1000,ratingModifierMultiplier:3}}}",
+    "apollographql-client-name": "reviews",
+    "apollographql-client-version": "7.34.8",
+    "Origin": "https://www.glassdoor.com",
+    "Sec-Fetch-Dest": "empty",
+    "Sec-Fetch-Mode": "cors",
+    "Sec-Fetch-Site": "same-origin",
+    "Connection": "keep-alive",
+    "Alt-Used": "www.glassdoor.com"
+}

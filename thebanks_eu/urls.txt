@@ -1,0 +1,33 @@
+Austria~https://thebanks.eu/list-of-emis/Austria
+Belgium~https://thebanks.eu/list-of-emis/Belgium
+Bulgaria~https://thebanks.eu/list-of-emis/Bulgaria
+Croatia~https://thebanks.eu/list-of-emis/Croatia
+Cyprus~https://thebanks.eu/list-of-emis/Cyprus
+Czech Republic~https://thebanks.eu/list-of-emis/Czech-Republic
+Denmark~https://thebanks.eu/list-of-emis/Denmark
+Estonia~https://thebanks.eu/list-of-emis/Estonia
+Finland~https://thebanks.eu/list-of-emis/Finland
+France~https://thebanks.eu/list-of-emis/France
+Germany~https://thebanks.eu/list-of-emis/Germany
+Gibraltar~https://thebanks.eu/list-of-emis/Gibraltar
+Greece~https://thebanks.eu/list-of-emis/Greece
+Hungary~https://thebanks.eu/list-of-emis/Hungary
+Iceland~https://thebanks.eu/list-of-emis/Iceland
+Ireland~https://thebanks.eu/list-of-emis/Ireland
+Italy~https://thebanks.eu/list-of-emis/Italy
+Latvia~https://thebanks.eu/list-of-emis/Latvia
+Liechtenstein~https://thebanks.eu/list-of-emis/Liechtenstein
+Lithuania~https://thebanks.eu/list-of-emis/Lithuania
+Luxembourg~https://thebanks.eu/list-of-emis/Luxembourg
+Malta~https://thebanks.eu/list-of-emis/Malta
+Netherlands~https://thebanks.eu/list-of-emis/Netherlands
+Norway~https://thebanks.eu/list-of-emis/Norway
+Poland~https://thebanks.eu/list-of-emis/Poland
+Portugal~https://thebanks.eu/list-of-emis/Portugal
+Romania~https://thebanks.eu/list-of-emis/Romania
+Slovakia~https://thebanks.eu/list-of-emis/Slovakia
+Slovenia~https://thebanks.eu/list-of-emis/Slovenia
+Spain~https://thebanks.eu/list-of-emis/Spain
+Sweden~https://thebanks.eu/list-of-emis/Sweden
+Switzerland~https://thebanks.eu/list-of-emis/Switzerland
+United Kingdom~https://thebanks.eu/list-of-emis/United-Kingdom

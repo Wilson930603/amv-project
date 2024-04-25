@@ -1,0 +1,1 @@
+scrapy crawl amazon_reviews_us
